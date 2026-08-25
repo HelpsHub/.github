@@ -205,6 +205,8 @@ Dessa forma, conseguimos construir um ecossistema de soluções sem precisar rei
 
 # HelpHub
 
+<div align="center">
+
 ### 🌐 Digitalizamos
 ### ⚙️ Automatizamos
 ### 📊 Organizamos
