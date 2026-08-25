@@ -96,28 +96,6 @@ A partir disso, buscamos eliminar tarefas repetitivas, organizar informações e
 
 ---
 
-### 🖥️ Sistemas e ERP
-
-Nosso objetivo de longo prazo é desenvolver produtos próprios capazes de atender necessidades reais identificadas através do contato com empresas.
-
-Entre as possibilidades:
-
-- Vendas
-- Caixa
-- Estoque
-- Clientes
-- Funcionários
-- Controle financeiro
-- Relatórios
-- Controle de vendedores
-- Impressão de comprovantes
-- Abertura e fechamento de caixa
-- Integrações
-
-A visão é transformar conhecimento adquirido através de projetos reais em **produtos escaláveis e recorrentes**.
-
----
-
 # 🎯 Nosso diferencial
 
 Não queremos ser conhecidos apenas como:
