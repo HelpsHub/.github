@@ -144,54 +144,6 @@ Quando uma empresa possui um problema, ela não precisa necessariamente saber qu
 
 ---
 
-# 📈 Nossa estratégia
-
-Nossa construção acontece de forma progressiva:
-
-<div align="center">
-
-### **Serviço**
-↓
-### **Cliente**
-↓
-### **Relacionamento**
-↓
-### **Produto**
-↓
-### **Recorrência**
-
-</div>
-
-### 01 — Gerar caixa
-
-Começamos com serviços de entrada:
-
-**Landing Pages + Sites**
-
-### 02 — Criar relacionamento
-
-A partir dos primeiros clientes:
-
-**Automação + Organização + Sistemas**
-
-### 03 — Encontrar problemas reais
-
-Conversamos com os clientes e identificamos problemas recorrentes.
-
-### 04 — Criar produtos
-
-Transformamos problemas validados em:
-
-**ERP + Sistemas próprios + Produtos digitais**
-
-### 05 — Criar receita recorrente
-
-Construímos relações de longo prazo através de:
-
-**Mensalidades + Suporte + Manutenção + Sistemas + Serviços**
-
----
-
 # 🎯 Para quem trabalhamos
 
 Nosso foco inicial são **pequenos e médios negócios** que possuem processos manuais, pouca estrutura tecnológica ou dificuldades para organizar sua operação.
@@ -248,26 +200,6 @@ Dessa forma, conseguimos construir um ecossistema de soluções sem precisar rei
 ### Tecnologia deve simplificar negócios — não complicá-los.
 
 </div>
-
----
-
-# 📫 Vamos conversar?
-
-<div align="center">
-
-Se você possui um negócio e acredita que a tecnologia pode melhorar sua operação, **vamos conversar.**
-
-<br>
-
-### 🌐 [helphub.com.br](https://helphub.com.br)
-
-### ✉️ [contato@helphub.com.br](mailto:contato@helphub.com.br)
-
-### 💼 [LinkedIn](https://linkedin.com/company/helphub)
-
-### 📸 [Instagram](https://instagram.com/helphub)
-
-<br>
 
 ---
 
