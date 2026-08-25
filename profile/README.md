@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=45&pause=1000&color=2563EB&center=true&vCenter=true&width=400&lines=HelpHub" alt="HelpHub Typing Animation" />
   </a>
 
-<br>
+<br><br>
 
 ### Uma HUB para o seu negócio.
 
