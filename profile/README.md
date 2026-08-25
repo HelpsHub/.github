@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/HelpHub-Tecnologia%20para%20negócios-111827?style=for-the-badge" alt="HelpHub">
 
-<br><br>
+<br>
 
 <a href="#">
     <img src="https://readme-typing-svg.demolab.com/?font=Inter&weight=800&size=45&pause=1000&color=2563EB&center=true&vCenter=true&width=400&lines=HelpHub" alt="HelpHub Typing Animation" />
