@@ -18,7 +18,6 @@
 <br>
 
 [🌐 Site](https://helphub.com.br) •
-[💼 LinkedIn](https://linkedin.com/company/helphub) •
 [📸 Instagram](https://instagram.com/helphub) •
 [✉️ Contato](mailto:contato@helphub.com.br)
 
