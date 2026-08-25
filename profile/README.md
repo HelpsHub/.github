@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="URL_DA_LOGO" alt="Logo da HelpHub" width="200" />
-  
   <h1>HelpHub</h1>
   
   <p><em>Uma HUB para o seu negócio.</em></p>
